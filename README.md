@@ -1,5 +1,5 @@
 
-![SparkFun How To Arduino Library](docs/images/gh-banner-mcp4725-ard.png  "SparkFun HowTo Arduino Library")
+![SparkFun How To Arduino Library](docs/images/gh-banner-howto-demo.png  "SparkFun HowTo Arduino Library")
 
 # SparkFun HowTo Arduino Library
 
