@@ -25,7 +25,7 @@
  *
  *
  */
-class sfeArduinoHowToDemo : public sfHowToDemo
+class sfeArduinoHowToDemo : public sfDevHowToDemo
 {
   public:
     sfeArduinoHowTo()
