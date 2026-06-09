@@ -28,7 +28,7 @@
 class sfeArduinoHowToDemo : public sfDevHowToDemo
 {
   public:
-    sfeArduinoHowTo()
+    sfeArduinoHowToDemo()
     {
     }
 
