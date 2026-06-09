@@ -37,7 +37,7 @@ class sfeArduinoHowToDemo : public sfDevHowToDemo
         if (_theI2CBus.init(wirePort, address, true) != ksfTkErrOk)
             return false;
 
-        if (sfHowToDemo::begin(&_theI2CBus) == false)
+        if (sfDevHowToDemo::begin(&_theI2CBus) == false)
             return false;
 
         // are we connected ?
