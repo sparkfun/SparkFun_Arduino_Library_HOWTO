@@ -13,9 +13,10 @@ GitHub repository that outlines how to build a modern SpakRun Arduino Library, w
 [![Compile Test](https://github.com/sparkfun/SparkFun_Arduino_Library_HowTo/actions/workflows/cross-compilation.yml/badge.svg)](https://github.com/sparkfun/SparkFun_Arduino_Library_HowTo/actions/workflows/cross-compilation.yml)
 ![GitHub issues](https://img.shields.io/github/issues/sparkfun/SparkFun_Arduino_Library_HowTo)
 
-The SparkFun MCP4725 Arduino Library provides full control over Microchip's MCP4725, a 12-bit single-channel I2C digital-to-analog converter (DAC). The MCP4725 is compatible with SparkFun's Qwiic connect system, so no soldering is required to get started. An onboard EEPROM allows the device to retain its DAC value and power-down settings across power cycles, making it ideal for applications that require a consistent analog output at startup.
+> [!INFO]
+> Details on how to setup a SparkFun Arduino Library are contained the [HOWTO.md](HOWTO.md) file in this repository. This file contains step-by-step instructions on how to create a SparkFun Arduino Library repository, including how to use the SparkFun Toolkit, and how to setup documentation generation and deployment using GitHub Actions and GitHub Pages.
 
-
+*Enter a description of the library here*
 
 This library allows you to:
 
@@ -34,16 +35,19 @@ This library allows you to:
 
 # Documentation
 
-* **[Library Documentation](https://docs.sparkfun.com/SparkFun_MCP4725_Arduino_Library/)** - Arduino Library Documentation for the SparkFun MCP4725 breakout boards.
-* **[Hookup Guide](https://docs.sparkfun.com/SparkFun_Qwiic_DAC_MCP4725/)** - Hookup guide for the SparkFun MCP4725 breakout boards.
+> [!INFO]
+> *Link to documentation for this library here*
+
+* **[Library Documentation](https://docs.sparkfun.com/SparkFun_Arduino_Library_HowTo/)** - Arduino Library Documentation for this repository.
+* **[Hookup Guide](https://docs.sparkfun.com)** - Hookup guide for the the product associated with this library.
 * **[Installing an Arduino Library Guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
-* **[Hardware GitHub Repository - Qwiic 1x1](TODO)** - Main repository (including hardware files) for the SparkFun Qwiic MCP4725 Breakout.
-* **[Hardware GitHub Repository - Breakout](TODO)** - Main repository (including hardware files) for the SparkFun I2C DAC Breakout.
+* **[Hardware GitHub Repository - Qwiic 1x1](TODO)** - Main repository (including hardware files) for product that uses this library. List all products here, on desperate lines.
+
 
 ## Products That Use This Library
 
-* [[BOB-31206]](https://www.sparkfun.com/sparkfun-qwiic-12-bit-dac-breakout-mcp4725.html) - SparkFun Qwiic 12-Bit DAC Breakout - MCP4725
-* [[TODO: SKU]](https://www.sparkfun.com/sparkfun-i2c-dac-breakout-mcp4725.html) - SparkFun I2C DAC Breakout - MCP4725
+* [[TODO: SKU]](https://www.sparkfun.com/) - *Product 1 Name*
+* [[TODO: SKU]](https://www.sparkfun.com/) - *Product 2 Name*
 
 ## License Information
 
