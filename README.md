@@ -1,7 +1,7 @@
 
 ![SparkFun How To Arduino Library](docs/images/gh-banner-howto-demo.png  "SparkFun HowTo Arduino Library")
 
-# SparkFun HowTo Arduino Library
+# SparkFun How To Arduino Library
 
 GitHub repository that outlines how to build a modern SpakRun Arduino Library, which includes use of the SparkFun Toolkit, and Doxygen generated documentation that is published via GitHub Pages.
 

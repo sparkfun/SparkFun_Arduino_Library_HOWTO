@@ -1,5 +1,16 @@
 # Setting Up a SparkFun Arduino Library Repo
 
+## Creating a Repository
+
+When creating a repository, the preferred method is to create an empty repository and then copy in desired resources from this *HowTo* repository as needed.
+
+
+1) Create a new repository on GitHub with the desired name for the library, following the template *SparkFun_<product name>_Arduino_Library*. When creating the repository, select the option to create a README.md file and a MIT License file. This will create the initial files for the repository and set up the license for the repository.
+2) Once the repository created, the first step is to create branch - specifically a **develop** branch. This branch is used to stage changes and updates to the library before they are merged into the main branch. All of the initial development is performed on the develop branch, and then a GitHub PR is used to support the initial code review of the repository.
+3) Clone the repository to your local machine and switch to the **develop** branch.
+
+> [!NOTE]
+> The HowTo repo is not used as a GitHub template to create a new repository due to how GitHub displays an annoying banner on repository created from a template. 
 
 ## License
 
@@ -26,7 +37,7 @@ This product is licensed using the [MIT Open Source License](https://opensource.
 
 For each source file created, include the following text at the comment header at the top of the file:
 
-```c++
+```cpp
 /*
  * @date 2026
  * @copyright Copyright (c) 2026, SparkFun Electronics Inc. This project is released under the MIT License.
@@ -36,7 +47,7 @@ For each source file created, include the following text at the comment header a
 
 ```
 
-Change the date value as needed.
+Change the date and copyright date value as needed.
 
 
 ## Splash Images
@@ -51,7 +62,7 @@ The Splash Image for this repository:
 The image uses one of the template image files contained in the [docs/images](docs/images) folder. To create a specific image, perform the following steps.
 
 1) Select the image template to use from HowTo - make a local copy of this file
-2) Open this file in your desired image editing tool (i.e. Photoshop, Pixelmator, GIIMP ...etc).
+2) Open this file in your desired image editing tool (i.e. Photoshop, Pixelmator, GIMP ...etc).
 3) Add the name of the repository item on the left section of the image.
 4) Add an image of the target product as well as a tile for the board in the white area of the image
 5) Save the image and add it to the "docs/images" folder of the new repository.
