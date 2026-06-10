@@ -20,6 +20,7 @@
 
 #include <Arduino.h>
 #include <Wire.h>
+#include <stdint.h>
 
 /**
  *
@@ -65,9 +66,11 @@ class sfeArduinoHowToDemo : public sfDevHowToDemo
      * @brief Arduino I2C bus interface instance for demo
      *
      * @details
-     * This member handles the low-level I2C communication between the Arduino and a target device
+     * This member handles the low-level I2C communication between the Arduino and
+     * a target device
      *
-     * The bus interface is configured during begin() and used by all communication methods.
+     * The bus interface is configured during begin() and used by all
+     * communication methods.
      *
      * @see sfTkArdI2C
      * @see begin()
