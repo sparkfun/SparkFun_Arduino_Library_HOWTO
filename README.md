@@ -11,6 +11,7 @@ GitHub repository that outlines how to build a modern SpakRun Arduino Library, w
 > [!NOTE]
 > Update these links and URLs for the badges to work correctly
 
+
 ![GitHub License](https://img.shields.io/github/license/sparkfun/SparkFun_Arduino_Library_HowTo)
 ![Release](https://img.shields.io/github/v/release/sparkfun/SparkFun_Arduino_Library_HowTo)
 ![Release Date](https://img.shields.io/github/release-date/sparkfun/SparkFun_Arduino_Library_HowTo)
