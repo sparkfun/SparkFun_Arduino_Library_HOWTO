@@ -3,14 +3,13 @@
 
 # SparkFun How To Arduino Library
 
-> [!NOTE]
-> Update this with a single sentence about this library
+<!--  Update this with a single sentence about this library -->
 
 GitHub repository that outlines how to build a modern SpakRun Arduino Library, which includes use of the SparkFun Toolkit, and Doxygen generated documentation that is published via GitHub Pages.
 
-> [!NOTE]
-> Update these links and URLs for the badges to work correctly
-
+<!-- 
+ Update these links and URLs for the badges to work correctly
+ -->
 
 ![GitHub License](https://img.shields.io/github/license/sparkfun/SparkFun_Arduino_Library_HowTo)
 ![Release](https://img.shields.io/github/v/release/sparkfun/SparkFun_Arduino_Library_HowTo)
@@ -41,8 +40,8 @@ This library allows you to:
 
 # Documentation
 
-> [!NOTE]
-> *Link to documentation for this library here*
+
+ <!-- *Link to documentation for this library here* -->
 
 * **[Library Documentation](https://docs.sparkfun.com/SparkFun_Arduino_Library_HowTo/)** - Arduino Library Documentation for this repository.
 * **[Hookup Guide](https://docs.sparkfun.com)** - Hookup guide for the the product associated with this library.
@@ -52,8 +51,7 @@ This library allows you to:
 
 ## Products That Use This Library
 
-> [!NOTE]
-> List the SparkFun products that use this library here
+ <!-- List the SparkFun products that use this library here -->
 
 * [[TODO: SKU]](https://www.sparkfun.com/) - *Product 1 Name*
 * [[TODO: SKU]](https://www.sparkfun.com/) - *Product 2 Name*
