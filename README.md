@@ -8,9 +8,6 @@
 
 GitHub repository that outlines how to build a modern SpakRun Arduino Library, which includes use of the SparkFun Toolkit, and Doxygen generated documentation that is published via GitHub Pages.
 
-> [!NOTE]
-> Update these links and URLs for the badges to work correctly
-
 
 ![GitHub License](https://img.shields.io/github/license/sparkfun/SparkFun_Arduino_Library_HowTo)
 ![Release](https://img.shields.io/github/v/release/sparkfun/SparkFun_Arduino_Library_HowTo)
